@@ -13,6 +13,7 @@
 		33659FFD1D218E3B00C3E0DE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 33659FFB1D218E3B00C3E0DE /* Main.storyboard */; };
 		33659FFF1D218E3B00C3E0DE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 33659FFE1D218E3B00C3E0DE /* Assets.xcassets */; };
 		3365A0021D218E3B00C3E0DE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3365A0001D218E3B00C3E0DE /* LaunchScreen.storyboard */; };
+		3365A0141D21B98900C3E0DE /* mountain2.png in Resources */ = {isa = PBXBuildFile; fileRef = 3365A0131D21B98900C3E0DE /* mountain2.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		33659FFE1D218E3B00C3E0DE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3365A0011D218E3B00C3E0DE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3365A0031D218E3B00C3E0DE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3365A0131D21B98900C3E0DE /* mountain2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = mountain2.png; path = ../../../../.Trash/mountain2.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				33659FF91D218E3B00C3E0DE /* ViewController.m */,
 				33659FFB1D218E3B00C3E0DE /* Main.storyboard */,
 				33659FFE1D218E3B00C3E0DE /* Assets.xcassets */,
+				3365A0131D21B98900C3E0DE /* mountain2.png */,
 				3365A0001D218E3B00C3E0DE /* LaunchScreen.storyboard */,
 				3365A0031D218E3B00C3E0DE /* Info.plist */,
 				33659FF21D218E3B00C3E0DE /* Supporting Files */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3365A0021D218E3B00C3E0DE /* LaunchScreen.storyboard in Resources */,
+				3365A0141D21B98900C3E0DE /* mountain2.png in Resources */,
 				33659FFF1D218E3B00C3E0DE /* Assets.xcassets in Resources */,
 				33659FFD1D218E3B00C3E0DE /* Main.storyboard in Resources */,
 			);
