@@ -40,7 +40,7 @@
 
 
 -(void) swipedUp:(UIGestureRecognizer *) recognizer{
-    NSLog(@"Swiped up");
+    NSLog(@"Swiped up ");
 }
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
